@@ -6,10 +6,10 @@ resolver = "3"
 categories = ["development-tools", "command-line-utilities"]
 description = "Industrial MCP hardening spine with host/worker recovery, model-facing rendering doctrine, and operational telemetry."
 edition = "2024"
-homepage = "https://github.com/aoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoa/libmcp"
+homepage = "https://github.com/forever-and-ever/libmcp"
 keywords = ["mcp", "tooling", "ai", "json-rpc", "operations"]
 license = "Apache-2.0"
-repository = "https://github.com/aoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoa/libmcp"
+repository = "https://github.com/forever-and-ever/libmcp"
 rust-version = "1.98.0"
 version = "3.0.0"
 
